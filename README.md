@@ -17,3 +17,12 @@
 -   Provide production-ready features such as metrics, health checks, and externalized configuration
     
 -   Absolutely no code generation and no requirement for XML configuration
+
+
+# Spring Boot + NetBeans
+
+## Download Springboot plugin [here](https://plugins.netbeans.apache.org/catalogue/?id=4)
+## Install plugin
+###	- Netbeans -> Tools -> Plugins -> Downloaded -> Add Plugins -> (select pluging) -> Install
+## Create a new project
+###	- File -> New Project -> Maven Project -> Spring Boot Initilizr Project -> (next)
