@@ -23,6 +23,6 @@
 
 ## Download Springboot plugin [here](https://plugins.netbeans.apache.org/catalogue/?id=4)
 ## Install plugin
-###	- Netbeans -> Tools -> Plugins -> Downloaded -> Add Plugins -> (select pluging) -> Install
+###	- Netbeans -> Tools -> Plugins -> Downloaded -> Add Plugins -> (select plugin) -> Install
 ## Create a new project
 ###	- File -> New Project -> Maven Project -> Spring Boot Initilizr Project -> (next)
